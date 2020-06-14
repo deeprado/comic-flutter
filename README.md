@@ -4,8 +4,10 @@ Language: [English](https://github.com/deeprado/comic-flutter/blob/master/README
 仿腾讯动漫，抖音视频播放效果，小说阅读，异步编程，我猜想，你所需要的效果，此项目大致都有，项目持续更新中...
 
 另有[微信小程序版本](https://github.com/deeprado/comic-wx)(仿腾讯动漫，值得一看)
-[Vue版本](https://github.com/ZDfordream/comic-vue)
-
+[Vue版本](https://github.com/deeprado/comic-vue)
+[React版本](https://github.com/deeprado/comic-react)
+[React PC 版本](https://github.com/deeprado/comic-react-pc)
+[Electron 桌面端版本](https://github.com/deeprado/comic-electron)
 ## screen shot
 
 <img src="https://github.com/deeprado/comic-flutter/blob/master/screenshot/screenshot1.png" width="330" hspace="20">
@@ -18,7 +20,7 @@ Language: [English](https://github.com/deeprado/comic-flutter/blob/master/README
 ## Setup
 1. **Clone the repo**
 ```
-$ git clone https://github.com/ZDfordream/Fluttercomic.git
+$ git clone https://github.com/deeprado/comic-flutter.git
 $ cd Fluttercomic
 $ flutter packages get
 ```
